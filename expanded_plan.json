@@ -1,0 +1,349 @@
+[
+  {
+    "id": "qaoa_3o_p6_chi50_r0",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 6,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_4o_p6_chi20_r0",
+    "method": "qaoa",
+    "objectives": 4,
+    "p": 6,
+    "chi": 20,
+    "circuits": 20000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "random_3o_r0",
+    "method": "random",
+    "objectives": 3,
+    "circuits": 25000000,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 100000
+  },
+  {
+    "id": "random_4o_r0",
+    "method": "random",
+    "objectives": 4,
+    "circuits": 100000000,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 100000
+  },
+  {
+    "id": "goemans_williamson_3o_r0",
+    "method": "goemans_williamson",
+    "objectives": 3,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "goemans_williamson_4o_r0",
+    "method": "goemans_williamson",
+    "objectives": 4,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "epsilon_constraint_3o_r0",
+    "method": "epsilon_constraint",
+    "objectives": 3,
+    "circuits": 459629,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 1000
+  },
+  {
+    "id": "epsilon_constraint_4o_r0",
+    "method": "epsilon_constraint",
+    "objectives": 4,
+    "circuits": 742081,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 1000
+  },
+  {
+    "id": "weighted_sum_3o_r0",
+    "method": "weighted_sum",
+    "objectives": 3,
+    "circuits": 400000,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 1000
+  },
+  {
+    "id": "weighted_sum_4o_r0",
+    "method": "weighted_sum",
+    "objectives": 4,
+    "circuits": 400000,
+    "shots": 1,
+    "seed": 0,
+    "batch_circuits": 1000
+  },
+  {
+    "id": "qaoa_3o_p3_chi50_r0",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 3,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p4_chi50_r0",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 4,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p5_chi50_r0",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 5,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 0,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p6_chi50_r1",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 6,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 1,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p3_chi50_r1",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 3,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 1,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p4_chi50_r1",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 4,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 1,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p5_chi50_r1",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 5,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 1,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_4o_p6_chi20_r1",
+    "method": "qaoa",
+    "objectives": 4,
+    "p": 6,
+    "chi": 20,
+    "circuits": 20000,
+    "shots": 5000,
+    "seed": 1,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p6_chi50_r2",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 6,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 2,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p3_chi50_r2",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 3,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 2,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p4_chi50_r2",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 4,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 2,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p5_chi50_r2",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 5,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 2,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_4o_p6_chi20_r2",
+    "method": "qaoa",
+    "objectives": 4,
+    "p": 6,
+    "chi": 20,
+    "circuits": 20000,
+    "shots": 5000,
+    "seed": 2,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p6_chi50_r3",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 6,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 3,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p3_chi50_r3",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 3,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 3,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p4_chi50_r3",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 4,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 3,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p5_chi50_r3",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 5,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 3,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_4o_p6_chi20_r3",
+    "method": "qaoa",
+    "objectives": 4,
+    "p": 6,
+    "chi": 20,
+    "circuits": 20000,
+    "shots": 5000,
+    "seed": 3,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p6_chi50_r4",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 6,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 4,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p3_chi50_r4",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 3,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 4,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p4_chi50_r4",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 4,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 4,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_3o_p5_chi50_r4",
+    "method": "qaoa",
+    "objectives": 3,
+    "p": 5,
+    "chi": 50,
+    "circuits": 5000,
+    "shots": 5000,
+    "seed": 4,
+    "batch_circuits": 2
+  },
+  {
+    "id": "qaoa_4o_p6_chi20_r4",
+    "method": "qaoa",
+    "objectives": 4,
+    "p": 6,
+    "chi": 20,
+    "circuits": 20000,
+    "shots": 5000,
+    "seed": 4,
+    "batch_circuits": 2
+  }
+]
